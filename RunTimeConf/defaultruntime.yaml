@@ -1,0 +1,12 @@
+dataset: 'Movie'
+batch_size: 1024
+interval: 1
+early_stop: 15
+verbose: True
+draw_loss_points: 100
+model: 'EulerNet'
+L2_penalty: 0.00001
+in_batch_interval: 5000
+enable_in_batch_eval: False
+embedding_size: 16
+split: ['0.8','0.1','0.1']

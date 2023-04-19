@@ -1,0 +1,7 @@
+dataset: 'Avazu'
+model: 'EulerNet'
+learning_rate: 0.0001
+drop_ex: 0.1
+drop_im: 0.1
+order_list: [23]
+apply_norm: True

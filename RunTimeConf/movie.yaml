@@ -1,0 +1,8 @@
+dataset: 'Movie'
+model: 'EulerNet'
+learning_rate: 0.001
+drop_ex: 0.3
+drop_im: 0.3
+order_list: [7]
+apply_norm: False
+dp_rate: 0.3
