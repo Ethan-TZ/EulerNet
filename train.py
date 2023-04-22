@@ -134,7 +134,7 @@ if __name__ == '__main__':
 
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("--config_files", help="path to load config", default="/home/data/tz/DAGFM_pytorch/RunTimeConf/default.yaml")
+    parser.add_argument("--config_files", help="path to load config", default="None")
     parser.add_argument("--gpu", help="GPU ids", default=0)
     args = parser.parse_args()
     import os
