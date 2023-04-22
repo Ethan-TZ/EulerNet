@@ -2,6 +2,7 @@
 [SIGIR 2023] This is the official PyTorch implementation for the paper: "EulerNet: Adaptive Feature Interaction Learning via Euler’s Formula for CTR Prediction".
 
 <div align=center><img src="Asset/EulerNet.png" width=50% height=50%>
+<div align=center> <b>The architecture of our proposed EulerNet</b>
 <div align=left>
 
 ## Requirements
